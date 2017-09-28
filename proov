@@ -1,0 +1,6 @@
+#!/bin/bash
+# Mingi kirjeldus
+# set -x
+clear
+printf "Machine name:	" && hostname
+#exit
